@@ -1,5 +1,7 @@
-# local data and secrets
+# Local data and secrets
 .env
 .env.*
+supabase/functions/.env
 *.json
 backups/
+
